@@ -1,0 +1,29 @@
+{
+  "name": "phase-1-week-3-project",
+  "version": "1.0.0",
+  "description": "Dom, working on Flatdango",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngechuk/Phase-1-week-3-project.git"
+  },
+  "keywords": [
+    "communication",
+    "with",
+    "server",
+    "fetch"
+  ],
+  "author": "Ngechuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ngechuk/Phase-1-week-3-project/issues"
+  },
+  "homepage": "https://github.com/Ngechuk/Phase-1-week-3-project#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.38"
+  }
+}
