@@ -10,8 +10,8 @@ The instructions below will walk you through the process of ideation and plannin
 
 ## project Link
 
-* live link at [click me](http://127.0.0.1:5501/index.html)
-* page link at [click me](https://ngechuk.github.io/Phase-1-week-3-project/)
+* live link at [click me](http://127.0.0.1:5503/index.html)
+* page link at [click me](https://ngechuk.github.io/code-challenge-3-resubmission/)
 
 ### Requirements
 
